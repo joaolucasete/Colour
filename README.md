@@ -3,7 +3,7 @@
 </p>
 
 # Colour
-> :art: A lib to help colors in python terminal
+> :art: A Python library to help you with ANSI escape characters
 # Screenshot
 ![image](https://user-images.githubusercontent.com/60306241/77921083-aa2c6e00-7275-11ea-964d-19c8a96f12da.png)
 # Requirements
